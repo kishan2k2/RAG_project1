@@ -1,2 +1,2 @@
 # description
-In this repository I will explore the shallow end of RAG using GEMMA LLM[Released 2 days ago, so consider me one of initial users] and Hugging face embedding model and FassaiDB for storing vector embedding storing and retieval, and cosmopedia the biggest synthetic dataset in the world as of now.
+In this repository I will explore the shallow end of RAG using GEMMA LLM[Released 2 days ago, so consider me one of initial users] and Hugging face embedding model and FassaiDB for storing vector embedding storing and retieval, and cosmopedia the biggest synthetic dataset in the world as of now
